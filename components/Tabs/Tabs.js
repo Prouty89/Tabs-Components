@@ -17,7 +17,7 @@ class TabLink {
 
   };
 
-  select() {
+  //select() {
     // Get all of the elements with the tabs-link class
     // const links;
 
